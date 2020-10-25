@@ -1,5 +1,5 @@
-*Glass Card
-**How to run the thing
+#Glass Card
+##How to run the thing
 
 ```bash
 npm install
